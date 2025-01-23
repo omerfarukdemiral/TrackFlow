@@ -1,0 +1,35 @@
+{
+  "name": "trackflow-panel",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.10",
+    "@mui/material": "^5.14.10",
+    "@reduxjs/toolkit": "^1.9.5",
+    "@types/d3-hexbin": "^0.2.5",
+    "chart.js": "^4.4.0",
+    "d3": "^7.8.5",
+    "d3-hexbin": "^0.2.2",
+    "firebase": "^10.4.0",
+    "next": "^13.4.19",
+    "react": "^18.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^8.1.2"
+  },
+  "devDependencies": {
+    "@types/d3": "^7.4.3",
+    "@types/node": "^20.6.2",
+    "@types/react": "^18.2.21",
+    "eslint": "^8.49.0",
+    "prettier": "^3.0.3",
+    "typescript": "^5.2.2"
+  }
+}

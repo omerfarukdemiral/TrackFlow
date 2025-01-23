@@ -1,0 +1,4 @@
+Fonksiyonlar: Her fonksiyon bir amacı net olarak gerçekleştirecek şekilde yazılmalıdır.
+Değişkenler: const ve let kullanılacak. var kullanımından kaçınılacaktır.
+Fonksiyon İsimlendirme: PascalCase veya camelCase isimlendirmesi kullanılacaktır.
+Yorumlar: Fonksiyonların ve karmaşık işlemlerin üstünde açıklayıcı yorumlar yer alacaktır.
